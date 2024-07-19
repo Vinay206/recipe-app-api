@@ -1,5 +1,8 @@
 # CHANGE LOG
 
+# V0.0.5
+- Added Django project
+
 # V0.0.4
 - Added flake8 configration file
 
