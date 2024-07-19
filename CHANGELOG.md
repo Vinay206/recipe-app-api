@@ -1,5 +1,8 @@
 # CHANGE LOG
 
+# V0.0.6
+- Added Github workflow
+
 # V0.0.5
 - Added Django project
 
