@@ -1,5 +1,8 @@
 # CHANGE LOG
 
+# V0.0.4
+- Added flake8 configration file
+
 # V0.0.3
 - Added flake8 testing tool
 
