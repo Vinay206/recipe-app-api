@@ -1,5 +1,8 @@
 # CHANGE LOG
 
+# V0.1.1
+- Added One more Simple Unit Test
+
 # V0.1.0
 - Added Simple Unit Test
 
